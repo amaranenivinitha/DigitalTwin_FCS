@@ -1,0 +1,31 @@
+
+DIGITAL TWIN FOR AIRCRAFT FLIGHT CONTROL SYSTEM VALIDATION
+
+DIGITAL TWIN FIDELITY
+Correlation Coefficient : 0.888789
+RMSE                    : 0.639447
+
+SENSOR ANOMALY DETECTOR
+Precision : 0.810
+Recall    : 1.000
+F1 Score  : 0.895
+False Alarm Rate : 0.078
+
+ACTUATOR JAM DETECTOR
+Precision : 0.962
+Recall    : 0.042
+F1 Score  : 0.080
+False Alarm Rate : 0.0007
+Time-to-Detect : 10.01 sec
+
+SENSOR FREEZE DETECTOR
+Precision : 1.000
+Recall    : 0.166
+F1 Score  : 0.284
+False Alarm Rate : 0.0000
+Time-to-Detect : 0.17 sec
+
+CONTROLLER VALIDATION
+RMSE              : 0.004758
+Peak Error        : 0.300902
+Steady-State Error: 0.000000
